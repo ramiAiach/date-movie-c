@@ -1,0 +1,7 @@
+# Compiled files
+*.o
+test_date_movie
+
+# macOS
+.DS_Store
+
